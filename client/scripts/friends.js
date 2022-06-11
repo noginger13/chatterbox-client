@@ -16,7 +16,7 @@ var Friends = {
  * potentially an array, if it's a unique username rerender
  * if the username could be key
  *  if friend.username exists
- *
+ *    on click if (friend.username) remove from friends list
  * on click of the username they become friends
  *  have to get some of the values from the div
  *  add a class to the username and apply a style to the message
