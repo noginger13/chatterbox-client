@@ -11,3 +11,13 @@ var Friends = {
   // and check the friendship status of other users.
 
 };
+
+/**
+ * potentially an array, if it's a unique username rerender
+ * if the username could be key
+ *  if friend.username exists
+ *
+ * on click of the username they become friends
+ *  have to get some of the values from the div
+ *  add a class to the username and apply a style to the message
+ */
